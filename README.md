@@ -1,1 +1,1 @@
-# type-script-duikt
+Цей репозиторій створений для курсу Type Script, ПД-41
